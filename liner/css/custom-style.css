@@ -1,0 +1,103 @@
+span.target{
+	background:url(../images/icon/092.png) no-repeat center left;
+	margin:0 5px;
+	padding:3px 0 3px 20px;
+	display:inline-block;
+	/*color:#CFD500;*/
+}
+span.upline{
+	background:url(../images/icon/group_link.png) no-repeat center left;
+	margin:0 5px;
+	padding:3px 0 3px 20px;
+	display:inline-block;
+	/*color:#06B3D0;*/
+}
+span.reply-l1,span.reply-l2,span.reply-l3,span.reply-l4,span.reply-l5,span.reply-l6{
+	margin:0 5px;
+	padding:3px 0 3px 20px;
+	display:inline-block;
+}
+span.reply-l1{
+	background:url(../images/icon/award_star_gold_3.png) no-repeat center left;
+	/*color:#0A84DE;*/
+}
+span.reply-l2{
+	background:url(../images/icon/award_star_gold_2.png) no-repeat center left;
+	/*color:#67BA0C;*/
+}
+span.reply-l3{
+	background:url(../images/icon/award_star_gold_1.png) no-repeat center left;
+	/*color:#FA820A;*/
+}
+span.reply-l4{
+	background:url(../images/icon/award_star_silver_3.png) no-repeat center left;
+	/*color:#0A84DE;*/
+}
+span.reply-l5{
+	background:url(../images/icon/award_star_silver_2.png) no-repeat center left;
+	/*color:#67BA0C;*/
+}
+span.reply-l6{
+	background:url(../images/icon/award_star_silver_1.png) no-repeat center left;
+	/*color:#FA820A;*/
+}
+
+span.upgrade{
+	background:url(../images/icon/Money_Bag.png) no-repeat left center;
+	padding:10px 0 10px 25px;
+}
+span.vip{
+	background:url(../images/icon/001_15.png) no-repeat left center;
+	padding:10px 0 10px 25px;
+	color:#F37C05;
+}
+span.uservip{
+	background:url(../images/icon/Personnel_24.png) no-repeat left center;
+	padding:10px 0 10px 30px;
+}
+span.usernormal{
+	background:url(../images/icon/Users_24.png) no-repeat left center;
+	padding:10px 0 10px 30px;
+	color:#7A7A7A;
+}
+span.userview{
+	background:url(../images/icon/InvoiceSearch_24.png) no-repeat left center;
+	padding:10px 0 10px 30px;
+	color:#0F69F0;
+}
+tr.bgred td{
+	border-bottom:1px solid #C90A0A;
+	background:#FFF4F4;
+	border-collapse:collapse;
+}
+a.fontmini{
+	font-size:11px;
+}
+span.redx{
+	color:#F51010;
+}
+span.greenx{
+	color:#109509;
+}
+span.grayx{
+	color:#50554A;
+}
+a.download-doc{
+	background:url(../images/icon/application-vnd.ms-excel.png) no-repeat center left;
+	padding:7px 0 7px 30px;
+	display:inline-block;
+	height:14px;
+}
+a.download-doc:hover, a.print-doc:hover{
+	text-decoration:underline;
+}
+a.print-doc{
+	background:url(../images/icon/printer.png) no-repeat center left;
+	padding:7px 0 7px 30px;
+}
+span.vipst{
+	color:#F46800;
+}
+span.nomst{
+	color:#334239;
+}
